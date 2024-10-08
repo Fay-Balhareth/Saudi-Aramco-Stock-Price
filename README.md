@@ -6,7 +6,7 @@ This [**website**](https://saudi-aramco-stock-price.netlify.app/) provides insig
 
 
 **Explore the Website:** 
-1. **Dashboard**: Click the [**Dashboard button**](https://app.powerbi.com/view?r=eyJrIjoiZDQxYjdjYzUtMTFhZS00OThhLTljYTctZmNlOGIyOGExM2FkIiwidCI6IjJjODZiYmZjLThkMDQtNDFmZi1hODNhLTk0MmYwNzVlMGY2MCIsImMiOjl9&pageName=ad92b8d2fdde18d55f7b) to access interactive visualizations of Saudi Aramco's stock prices from 2019 to 2024.
+1. **Dashboard**: Click the [**Dashboard button**](https://app.powerbi.com/view?r=eyJrIjoiZDQxYjdjYzUtMTFhZS00OThhLTljYTctZmNlOGIyOGExM2FkIiwidCI6IjJjODZiYmZjLThkMDQtNDFmZi1hODNhLTk0MmYwNzVlMGY2MCIsImMiOjl9&pageName=ad92b8d2fdde18d55f7b) to access interactive visualizations.
 2. **Dataset**: Download the full stock price dataset by clicking the [**dataset icon**](https://drive.google.com/file/d/10L6WbBIdFfKu2QiJEcQz7BDz9fpu5Dc-/view?usp=sharing) for further analysis in Excel format.
 3. **LSTM Model**: Explore the predictive LSTM model by clicking the [**LSTM model icon**](https://github.com/Fay-Balhareth/Stock-Price-Prediction-Using-LSTM), which leads to the GitHub repository.
 
