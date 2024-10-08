@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Saudi Aramco Stock Price</title>
+</head>
+<body>
+    <div class="navbar">
+        <img src="Images\aramcoLogo.png" alt="Logo" class="logo">
+    </div>
+
+        <div class="container">
+            <div class="content">
+                <p>Dashboard</p>
+                <h1>Saudi Aramco Stock Price</h1>
+                <p>Track and analyze Saudi Aramco’s stock price data from 2019 to 2024. <br>
+                Our dashboard provides a clear view, making it easy to monitor the performance.</p>
+            </div>
+            <div class="button-container">
+                <div class="button" onclick="openDashboard()">
+                    <p>Dashboard</p>
+                    <img src="Images/Right.png" alt="Go to Dashboard" class="button-image">
+                </div>
+            </div>
+            
+            <script>
+                function openDashboard() {
+                    window.open("https://app.powerbi.com/view?r=eyJrIjoiZDQxYjdjYzUtMTFhZS00OThhLTljYTctZmNlOGIyOGExM2FkIiwidCI6IjJjODZiYmZjLThkMDQtNDFmZi1hODNhLTk0MmYwNzVlMGY2MCIsImMiOjl9&pageName=ad92b8d2fdde18d55f7b", "_blank");
+                }
+            </script>
+        </div>            
+
+<div class="prediction-section">
+    <center>
+    <h2>Additional </h2>
+    <p>click on icons to download the <strong> dataset </strong> and check out the <strong> LSTM model</strong> for deeper insights </p> 
+    <a href="https://drive.google.com/file/d/10L6WbBIdFfKu2QiJEcQz7BDz9fpu5Dc-/view?usp=sharing" target="_blank">
+        <img src="Images/data.png" alt="Download Dataset" style="width: 140px; height: 165px; cursor: pointer; ">
+    </a>
+    
+    <a href="https://github.com/Fay-Balhareth/Stock-Price-Prediction-Using-LSTM" target="_blank">
+        <img src="Images/colab.png" alt="LSTM Model" style="width: 160px; height: 160px; cursor: pointer; margin-left: 50px; ">
+    </a>
+</center>
+</div>
+
+<div class="energy">
+    <img src="Images\Energy.png" style="width: 250px; height: 30px;  margin-bottom: 10px;">
+</div>
+
+</body>
+</html>

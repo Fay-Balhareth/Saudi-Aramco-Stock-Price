@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    display: flex;
+    justify-content: flex-end; 
+    background-color: #333;
+    padding: 25px;
+}
+
+.logo {
+    height: 50px;
+    margin-right: 33px;
+    width: auto;
+}
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    margin-left: 50px;
+    margin-top: 140px;
+    margin-bottom: 230px;
+}
+
+.content {
+    flex: 1;
+}
+
+.content h1 {
+    font-size: 50.5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.content p {
+    font-size: 20px;
+}
+
+.button-container {
+    display: flex;
+    align-items: center;
+    margin-right: 60px;
+    margin-top: 140px;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    text-align: center;
+}
+
+.button p {
+    font-size: 16px;
+    color: #007BFF;
+    margin-right: 10px;
+}
+
+.button-image {
+    width: 50px;
+    height: 50px;
+    border: 2px solid #007BFF;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+.prediction-section {
+    background-color: #f0f0f0; 
+    height: 265px;
+    padding: 20px;
+    margin: 20px 0; 
+    border-radius: 8px; 
+}
+
+.prediction-section h2 {
+    margin-bottom: 10px;
+}
+
+
+
+
